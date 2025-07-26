@@ -1,0 +1,404 @@
+Uri: https://dealcoreproperties.com/
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\index.htm
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/contact-us
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\contact-us.html
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/forest-hill-village
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\forest-hill-village.html
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/full-bio
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\full-bio.html
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://dealcoreproperties.com/most-recent-deals
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\most-recent-deals.html
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/the-bridle-path
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\the-bridle-path.html
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/what-we-do
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\what-we-do.html
+Content Type: text/html
+
+Uri: https://dealcoreproperties.com/who-we-are
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\who-we-are.html
+Content Type: text/html
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/150d7e03be52c11f/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\150d7e03be52c11f\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/1bc9e120c130d2b9/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\1bc9e120c130d2b9\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/21be6055a824074e/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\21be6055a824074e\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/2483003b98732403/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\2483003b98732403\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/404d340868d45f71/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\404d340868d45f71\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/4fd18214332f6656/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\4fd18214332f6656\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/584a9d6bcc00da2b/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\584a9d6bcc00da2b\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/5c3d404ccad043ee/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\5c3d404ccad043ee\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/684b444cb937edf4/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\684b444cb937edf4\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/836288f2b29a1cc8/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\836288f2b29a1cc8\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/8dc5e28de4d86b65/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\8dc5e28de4d86b65\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/93dd7242056a4c9f/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\93dd7242056a4c9f\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/9db1a1c74591baef/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\9db1a1c74591baef\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/a77630e3318e3e4b/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\a77630e3318e3e4b\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/c9f3cae97995df34/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\c9f3cae97995df34\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/8ea8655b-67c6-473a-902f-19ee43b11659/gpub/e1c3b08106a61499/script.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\blobby\go\8ea8655b-67c6-473a-902f-19ee43b11659\gpub\e1c3b08106a61499\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.50.3.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\ceph-p3-01\website-builder-data-prod\static\widgets\UX.4.50.3.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/gfonts/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C1GA9NQ5LE.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\crimsontext\v19\wlppgwHKFkZgtmSR3NB0oRJX1C1GA9NQ5LE.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C1GAtNQ5LE.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\crimsontext\v19\wlppgwHKFkZgtmSR3NB0oRJX1C1GAtNQ5LE.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C1GDNNQ.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\crimsontext\v19\wlppgwHKFkZgtmSR3NB0oRJX1C1GDNNQ.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\gfonts\s\opensans\v43\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/2020_08_12_06_18_34_img_6951.jpg/:/rs=w:388
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\2020_08_12_06_18_34_img_6951.jpg\rs=w388
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/2020_08_12_06_18_34_img_6951.jpg/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\2020_08_12_06_18_34_img_6951.jpg\rs=w388,h194,cgtrue,m\cr=w388,h194
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/2021_10_12_09_48_03_highlandcommons_altreedeve.jpg/:/rs=w:388
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\2021_10_12_09_48_03_highlandcommons_altreedeve.jpg\rs=w388
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/2021_10_12_09_48_03_highlandcommons_altreedeve.jpg/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\2021_10_12_09_48_03_highlandcommons_altreedeve.jpg\rs=w388,h194,cgtrue,m\cr=w388,h194
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/31946-142614.jpeg/:/cr=t:27.82%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\31946-142614.jpeg\cr=t27.82%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/31946-142614.jpeg/:/cr=t:27.82%25,l:0%25,w:100%25,h:66.25%25/rs=w:388,h:194,cg:true
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\31946-142614.jpeg\cr=t27.82%,l0%,w100%,h66.25%\rs=w388,h194,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/38313-141607.jpeg/:/cr=t:27.1%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\38313-141607.jpeg\cr=t27.1%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/38313-141607.jpeg/:/cr=t:27.1%25,l:0%25,w:100%25,h:66.67%25/rs=w:388,h:194,cg:true
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\38313-141607.jpeg\cr=t27.1%,l0%,w100%,h66.67%\rs=w388,h194,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/45871-167278.jpeg/:/cr=t:36.36%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\45871-167278.jpeg\cr=t36.36%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/45871-167278.jpeg/:/cr=t:36.36%25,l:0%25,w:100%25,h:55.03%25/rs=w:388,h:194,cg:true
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\45871-167278.jpeg\cr=t36.36%,l0%,w100%,h55.03%\rs=w388,h194,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/50 scollard ave.jpg/:/cr=t:34.51%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\50 scollard ave.jpg\cr=t34.51%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/50 scollard ave.jpg/:/cr=t:34.51%25,l:0%25,w:100%25,h:30.99%25/rs=w:388,h:194,cg:true
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\50 scollard ave.jpg\cr=t34.51%,l0%,w100%,h30.99%\rs=w388,h194,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-79fe7cd.png/:/cr=t:0%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-79fe7cd.png\cr=t0%
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-79fe7cd.png/:/cr=t:0%25,l:8.56%25,w:82.89%25,h:82.89%25/rs=w:400,cg:true,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-79fe7cd.png\cr=t0%,l8.56%,w82.89%,h82.89%\rs=w400,cgtrue,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-96163b6.png/:/cr=t:11.64%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-96163b6.png\cr=t11.64%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-96163b6.png/:/cr=t:11.64%25,l:0%25,w:100%25,h:66.56%25/rs=w:600,h:300,cg:true
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-96163b6.png\cr=t11.64%,l0%,w100%,h66.56%\rs=w600,h300,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=h:105,cg:true,m/qt=q:95
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=h105,cgtrue,m\qt=q95
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=h:147,cg:true,m/qt=q:95
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=h147,cgtrue,m\qt=q95
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:114,h:114,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w114,h114,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:120,h:120,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w120,h120,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:144,h:144,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w144,h144,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:152,h:152,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w152,h152,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:180,h:180,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w180,h180,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:190
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w190
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:266
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w266
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:57,h:57,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w57,h57,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:60,h:60,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w60,h60,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/blob-d28058d.png/:/rs=w:72,h:72,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\blob-d28058d.png\rs=w72,h72,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View1.jpg/:/cr=t:12.46%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View1.jpg\cr=t12.46%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View1.jpg/:/cr=t:12.46%25,l:0%25,w:100%25,h:75.08%25/rs=w:1240,h:1240,cg:true
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View1.jpg\cr=t12.46%,l0%,w100%,h75.08%\rs=w1240,h1240,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1279,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1350,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1535,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1920,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2046,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2301,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3069,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3070,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3837,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3840,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:450,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:4605,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:5760,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:767,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/8ea8655b-67c6-473a-902f-19ee43b11659/View3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:900,m
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\8ea8655b-67c6-473a-902f-19ee43b11659\View3.jpg\cr=t0%,l0%,w100%,h100%\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:365
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\static\transparent_placeholder.png\rs=w365
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:451
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\isteam\ip\static\transparent_placeholder.png\rs=w451
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js
+File Name: C:\Downloaded Web Sites\dealcoreproperties.com\signals\js\clients\scc-c2\scc-c2.min.js
+Content Type: text/javascript
+
